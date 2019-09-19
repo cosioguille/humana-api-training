@@ -79,4 +79,4 @@ public class AppConfig {
     public PersistenceExceptionTranslationPostProcessor exceptionTranslation() {
         return new PersistenceExceptionTranslationPostProcessor();
     }
-}
+} //just a simple comment to test commit
